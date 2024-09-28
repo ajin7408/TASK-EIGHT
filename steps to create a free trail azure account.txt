@@ -1,0 +1,26 @@
+Creating a Free Trial Azure Cloud Account
+
+Go to Azure Portal:
+
+Visit https://azure.microsoft.com/en-us/free.
+Click on "Start Free":
+
+On the landing page, click on the "Start Free" button.
+Sign In with a Microsoft Account:
+
+Use your Microsoft account (Hotmail, Outlook) to sign in. If you don't have one, create a new Microsoft account.
+Enter Your Details:
+
+Provide your personal details like name, country, and phone number.
+Verify your identity using the code sent to your phone.
+Verify Your Identity with a Credit Card:
+
+You'll need to provide a credit card for identity verification. No charges will be made unless you explicitly upgrade to a paid subscription.
+Complete the Signup:
+
+Agree to the terms and conditions, and then finish the registration process.
+Start Using Azure Free Services:
+
+Once your account is created, you will have access to:
+$200 credit for the first 30 days.
+Free access to several popular services for 12 months, such as Virtual Machines, Blob Storage, and more.
